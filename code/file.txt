@@ -1,0 +1,1 @@
+Text to be copied into the file2.txt
